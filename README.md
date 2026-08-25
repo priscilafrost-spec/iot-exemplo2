@@ -1,4 +1,4 @@
-# iot-exemplo2
+<img width="1920" height="814" alt="Exquisite Lappi (1)" src="https://github.com/user-attachments/assets/979c4ab8-6373-452d-aa29-ada4fc7e40a2" /># iot-exemplo2
 
 Discente: Priscila Frost
 
