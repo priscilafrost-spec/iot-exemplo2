@@ -8,7 +8,7 @@ Esse repositório serve de exemplo para a entrega de atividades da matéria de I
 
 [![Simular no Tinkercad]<img width="1920" height="814" alt="Exquisite Lappi (1)" src="https://github.com/user-attachments/assets/979c4ab8-6373-452d-aa29-ada4fc7e40a2" />
 
-## Enunciado: Vamos ligar o LED!
+## Enunciado: Controle de Microservos com Potenciômetro
 
 O projeto vai usar dispositivos de entrada e saída para realizar ações de controle. Nesta atividade, feita no Tinkercad, vamos conectar um potenciômetro e um microservo ao Arduino. A posição do microservo será controlada de acordo com o valor lido pelo potenciômetro.
 
